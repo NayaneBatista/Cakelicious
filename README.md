@@ -5,4 +5,7 @@ Esse projeto foi desenvolvido durante o workshop de HTML e CSS ofertado pelo [PE
 # 🔖 License
 Para mais informações sobre a [licença MIT](https://opensource.org/licenses/MIT).
 
-![Made by Nayane Batista Logotipo](https://user-images.githubusercontent.com/70235376/103786395-2630bf00-501b-11eb-999a-45fc5e64c582.png)
+
+
+
+![nameLogo](https://user-images.githubusercontent.com/70235376/103788192-537e6c80-501d-11eb-9db2-75deba25c064.png)
