@@ -53,7 +53,7 @@ body .background .bg2-container .catalog-content .card-wrap {
   background-color: rgba(251, 173, 134, 0.4);
   padding: 20px 0px;
   margin: 0px 20px;
-  border: 2px solid #d02746; /*Ctrl space para o VSCode sugerir cores. */
+  border: 2px solid #d02746;
   border-radius: 8px;
 }
 
