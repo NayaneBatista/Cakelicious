@@ -16,7 +16,7 @@ body .menu a {
   display: flex;
   text-decoration: none;
   color: #ffffff;
-  padding: 38px 0; /* Cima -> Direita -> Baixo -> Esquerda, ou seja, sentido horário. */
+  padding: 38px 0;
 }
 
 body .menu a:hover {
