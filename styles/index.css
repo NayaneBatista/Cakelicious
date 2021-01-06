@@ -14,7 +14,6 @@ body .background .bg2-container {
   align-items: center;
   margin: 0 auto;
   padding: 25px;
-  /* height: 100%, tirei pois queria a caixa verde na página inteira, e não apenas atrás do título. */
 }
 
 body .background .bg2-container header {
@@ -46,7 +45,6 @@ body .background .bg2-container header h2 {
 
 body .background .bg2-container .description {
   background: rgba(51, 143, 142, 0.8);
-  /* border: 3px dotted #d02746; */
   border-radius: 37px;
   font-family: "Lobster Two";
   font-weight: normal;
@@ -57,7 +55,7 @@ body .background .bg2-container .description {
   color: #feecd6;
   padding: 25px 46px;
   margin-top: 20px;
-  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25); /* Horizontal -> Vertical -> Blur. */
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.25);
   text-align: center;
 }
 
@@ -110,7 +108,6 @@ body .background .bg2-container .carousel-wrapper .carousel-items-posts {
   width: 800px;
   margin: auto;
   position: relative;
-  /*overflow: hidden, não foi necessário utilizar aqui pois a biblioteca slick foi importada na head do HTML.*/
 }
 
 body
