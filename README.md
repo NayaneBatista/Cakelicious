@@ -5,7 +5,6 @@ Esse projeto foi desenvolvido durante o workshop de HTML e CSS ofertado pelo [PE
 # 🔖 License
 Para mais informações sobre a [licença MIT](https://opensource.org/licenses/MIT).
 
-
-
-
-![nameLogo](https://user-images.githubusercontent.com/70235376/103788192-537e6c80-501d-11eb-9db2-75deba25c064.png)
+ 
+&nbsp;
+[![nameLogo](https://user-images.githubusercontent.com/70235376/103788416-93455400-501d-11eb-84a7-80cb7d90adab.png)](https://www.linkedin.com/in/nayane-batista/)
